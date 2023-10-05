@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = hello-world-api
+build_property.ProjectDir = /Users/saad/Downloads/dotnet-hello-world-master/hello-world-api/
